@@ -26,7 +26,6 @@ dist-ssr
 # Ignore practice folders
 src/Axios/
 src/Checkbox/
-src/Components/
 src/ConditionalRendering/
 src/ContextApi/
 src/Input/
