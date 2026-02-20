@@ -51,4 +51,3 @@ coverage/
 # Ignore other React state management projects
 React-Redux/
 Redux Toolkit/
-Zustand/
