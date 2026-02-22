@@ -48,5 +48,3 @@ Thumbs.db
 # =========================
 coverage/
 
-# Ignore other React state management projects
-Redux Toolkit/
